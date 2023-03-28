@@ -22,14 +22,16 @@ format:
 
 - Accueil
 - Bilan session 1 (chiffres-clés, retour qualité, remédiations apportées)
+
+    - Conditions pour délivrer les attestations
+    - Mutualisation des ressources : comment envisager la suite de FOCUS ?
+    
 - Bilan intermédiaire session 2 (chiffres-clés)
 - Etat d'avancement des préparatifs session 3
 - Après FOCUS ?
 - Divers
 
-## Bilan 
-
-session 1 {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
+## Bilan session 1 {background-color="white" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 ![timeline](img/timline_v1_focus_fin_session_1.png)
 
@@ -63,6 +65,10 @@ session 1 {background-color="white" background-image="img/fusee.jpeg" background
 
     - ...
 
+- Conditions pour délivrer les attestations
+
+- Mutualisation des ressources : comment envisager la suite de FOCUS ?
+
 ## Bilan intermédiaire session 2 (chiffres-clés) {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
 #### Chiffres-clés
@@ -90,8 +96,6 @@ session 1 {background-color="white" background-image="img/fusee.jpeg" background
 
 ## Divers {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"}
 
-- Relations avec les partenaires
-- Finances
 - R&D
 
 <!-- ## Crédits {background-color="black" background-image="img/fusee.jpeg" background-size="absolute" background-opacity="0.5"} -->
